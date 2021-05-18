@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+	
+	background-image: url(../practice/image/bg.jpg);
+	background-size: 100%;
+	padding: 70px 140px;
+}
+
+th, td {
+	
+	padding: 5px;
+}
+a {
+	padding-right: 10px;
+}
+.menu :hover{
+	opacity: 0.6;
+}
+.menu{
+	padding-bottom: 15px;
+}
+
